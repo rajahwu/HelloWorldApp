@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.rajahwu.helloworldapp","l":"ColorChooser"},{"p":"com.rajahwu.helloworldapp","l":"HelloWorldApp"},{"p":"com.rajahwu.helloworldapp","l":"Main"}];updateSearchResults();
